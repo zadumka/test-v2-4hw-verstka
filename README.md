@@ -1,1 +1,9 @@
-# goit-markup-hw-01
+
+.container { 
+  max-width; 
+  padding-left;  
+  padding-right;  
+  margin-left;  
+  margin-right;  
+}
+
